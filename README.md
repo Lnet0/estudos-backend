@@ -1,19 +1,19 @@
---Estudos Java Backend
+# Estudos Java Backend
 
 Repositório com exercícios e estudos em Java, focado em lógica de programação e fundamentos para desenvolvimento back-end.
 
---Conteúdo
+# Conteúdo
 
 * Estruturas Sequenciais
 * Estruturas Condicionais
 * Estruturas Repetitivas
 
---Tecnologias utilizadas
+# Tecnologias utilizadas
 
 * Java
 * IntelliJ IDEA
 * Git e GitHub
 
---Objetivo
+# Objetivo
 
 Consolidar conhecimentos em lógica de programação e evoluir para desenvolvimento backend com Java.
