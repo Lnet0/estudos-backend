@@ -4,7 +4,7 @@ Repositório com exercícios e estudos em Java, focado em lógica de programaç�
 
 # Conteúdo
 
-* Estruturas Sequenciais
+* Estruturas Sequenciais (concluído)
 * Estruturas Condicionais
 * Estruturas Repetitivas
 
