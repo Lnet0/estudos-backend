@@ -1,6 +1,6 @@
-# Estudos Java Backend
+# Estudos Backend
 
-Repositório com exercícios e estudos em Java, focado em lógica de programação e fundamentos para desenvolvimento back-end.
+Repositório com exercícios e estudos focado em lógica de programação e fundamentos para desenvolvimento back-end.
 
 # Conteúdo
 
@@ -10,10 +10,10 @@ Repositório com exercícios e estudos em Java, focado em lógica de programaç�
 
 # Tecnologias utilizadas
 
-* Java
-* IntelliJ IDEA
+* Java, C#
+* intelliJ IDEA, VS Code
 * Git e GitHub
 
 # Objetivo
 
-Consolidar conhecimentos em lógica de programação e evoluir para desenvolvimento backend com Java.
+Consolidar conhecimentos em lógica de programação e evoluir para desenvolvimento backend.
